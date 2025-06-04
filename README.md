@@ -90,8 +90,14 @@ Kaggle Data → S3 (Landing Bucket)
 ---
 
 ## 📊 Visual Output
+Use Amazon QuickSight to create dashboard with some basic visualizations:
+- Most liked categories 
+- Engagement comparison
+- Popularity comparison
+- Likes to views
+- Video reach comparison
 
-Use Amazon QuickSight to create dashboards such as:
-- Most viewed videos by region
-- Category-wise average likes/dislikes
-- Trends over time in publishing behavior
+![Dashboard](Dashboard.png)
+
+## 🙏 Acknowledgement
+This project is inspired by the work of Darshil Parmar
