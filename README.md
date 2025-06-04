@@ -49,7 +49,7 @@ Kaggle Data → S3 (Landing Bucket)
         → AWS Glue Studio (Join JSON + CSV) → S3 (Analytics Bucket)
         → Athena + QuickSight Dashboards
 ```
-![Architecture Diagram](Architecture-AWS.jpeg)
+![Architecture Diagram](Architecture-AWS.png)
 ---
 
 ## 🔄 Detailed Project Flow
