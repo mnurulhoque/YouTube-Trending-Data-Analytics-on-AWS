@@ -80,7 +80,9 @@ Kaggle Data → S3 (Landing Bucket)
 7. **Build ETL Join in Glue Studio**  
    - Use `Inner Join` node to merge CSV and JSON sources.
    - Output partitioned analytics data to `s3://<analytics-bucket>/`.
+   
 ![ETL Pipeline](ETL Pipeline.png)
+
 8. **Visualize with QuickSight**  
    - Connect to Athena → analytics table.
    - Create region-wise and category-wise trend dashboards.
