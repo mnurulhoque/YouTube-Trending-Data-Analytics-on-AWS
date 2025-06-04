@@ -81,7 +81,7 @@ Kaggle Data → S3 (Landing Bucket)
    - Use `Inner Join` node to merge CSV and JSON sources.
    - Output partitioned analytics data to `s3://<analytics-bucket>/`.
    
-![ETL Pipeline](ETL Pipeline.png)
+![ETL Pipeline](ETL-Pipeline.png)
 
 8. **Visualize with QuickSight**  
    - Connect to Athena → analytics table.
